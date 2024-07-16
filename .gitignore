@@ -1,0 +1,4 @@
+/saved_models
+/__pycache__
+/finbert-fintuned
+/datasets/preprocessed-evaluation-tweets/data_too_big
